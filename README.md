@@ -1,6 +1,6 @@
 # userdept ![Icon](assets/iconSpringBoot.png)
 
-## About the project 
+## About the project📜
 Creation of a Spring Boot project of a small system (REST API) of users associated with departments, containing features such as user/department registration, user search, primary key search, insertion of new users 
 
 ## Technologies used 💻⚙️ 
