@@ -1,7 +1,8 @@
-# userdept ![Icon](UserDept/assets/iconSpringBoot.png)
+# UserDept-API ![Icon](UserDept/assets/iconSpringBoot.png)
 
 ## About the project📜
-Creation of a Spring Boot project of a small system (REST API) of users associated with departments, containing features such as user/department registration, user search, primary key search, insertion of new users 
+- Creation of a Spring Boot project of a system (REST API) of users associated with departments, containing functionalities such as user/department registration, user search, primary key search, insertion of new users.
+- Visualizing the results through a memory bank (for quick visualization) and Postman (for visualization in Json)
 
 ## Technologies used 💻⚙️ 
 - Spring Tool Suite 4 
